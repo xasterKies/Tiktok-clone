@@ -10,6 +10,6 @@
         transform: rotate(0deg);
     }
     to {
-        transform
+        transform: rotate(0deg);
     }
 }
