@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import "./Video.css";
 
 function Video() {
+    const [play, setPlay] = useState(false)
     const videoRef = useRef(null);
 
     const onVideoPress = () => {
