@@ -7,10 +7,12 @@ function VideoFooter() {
             <div className="videoFooter__text">
 
             </div>
-        </div>
+        
         <img src="https://static.thenounproject.com/png
         /934821-200.png" alt=""/>
+        </div>
     );
+
 }
 
 export default VideoFooter;
