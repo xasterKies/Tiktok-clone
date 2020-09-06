@@ -21,7 +21,8 @@ function Video() {
         loop
         onClick={onVideoPress}
         ref={videoRef}
-        src="https://vm.tiktok.com/ZSPgqUJf/" className="video"></video>
+        src="https://vm.tiktok.com/ZSPgqUJf/" className="video">
+        </video>
          <VideoFooter/>
         {/* <VideoSidebar /> /> */}
         </div>
