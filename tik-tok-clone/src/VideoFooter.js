@@ -9,7 +9,7 @@ function VideoFooter() {
             </div>
         </div>
         <img src="https://static.thenounproject.com/png
-        " alt=""/>
+        /934821-200.png" alt=""/>
     );
 }
 
