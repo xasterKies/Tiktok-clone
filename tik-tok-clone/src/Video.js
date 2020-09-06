@@ -8,7 +8,9 @@ function Video() {
     const onVideoPress = () => {
     if (play){
         videoRef.current.pause();
-
+    } else {
+        video.current.playing();
+        setPlaying(true);v
     }
     };
     
