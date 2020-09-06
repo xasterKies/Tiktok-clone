@@ -16,5 +16,5 @@ html {
 }
 
 .app__videos::-webkit-scrollbar {
-
+    display: none;
 }
