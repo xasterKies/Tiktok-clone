@@ -1,9 +1,9 @@
 .videoFooter{
     position : relative;
-    bottom: 50px;
+    bottom: 100px;
     color: white;
     display: flex;
-    
+
 }
 
 .videoFooter__text {
