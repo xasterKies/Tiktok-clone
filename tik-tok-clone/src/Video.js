@@ -1,5 +1,6 @@
 import React, { useRef, useState } from 'react';
 import "./Video.css";
+imor
 
 function Video() {
     const [playing, setPlaying] = useState(false);
@@ -21,7 +22,7 @@ function Video() {
         onClick={onVideoPress}
         ref={videoRef}
         src="https://vm.tiktok.com/ZSPgqUJf/" className="video"></video>
-        {/* <VideoFooter /> */}
+         <VideoFooter />
         {/* <VideoSidebar /> /> */}
         </div>
     
