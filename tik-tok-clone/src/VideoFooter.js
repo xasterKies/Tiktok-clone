@@ -9,7 +9,7 @@ function VideoFooter() {
             <p>This is a description</p>
             </div>
         
-        <img src="https://static.thenounproject.com/png
+        <img className="videoFooter__logo" src="https://static.thenounproject.com/png
         /934821-200.png" alt=""/>
         </div>
     );
