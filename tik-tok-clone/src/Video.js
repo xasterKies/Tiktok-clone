@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import "./Video.css";
-imor
+import "./VideoFooter"
 
 function Video() {
     const [playing, setPlaying] = useState(false);
