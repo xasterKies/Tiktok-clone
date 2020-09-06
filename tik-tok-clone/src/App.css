@@ -13,6 +13,7 @@ html {
     position: relative;
     height: 800px;
     overflow: scroll;
+    border-radius: 20px;
     width: 80%;
     max-width: 500px;
     scroll-snap-type: y mandatory;
