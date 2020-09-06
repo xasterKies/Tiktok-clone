@@ -6,7 +6,7 @@ function Video() {
     const videoRef = useRef(null);
 
     const onVideoPress = () => {
-    if (play){
+    if (playing){
         videoRef.current.pause();
     } else {
         videoRef.current.playing();
