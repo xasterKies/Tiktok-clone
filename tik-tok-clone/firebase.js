@@ -1,6 +1,5 @@
 
-  // Your web app's Firebase configuration
-  var firebaseConfig = {
+  const firebaseConfig = {
     apiKey: "AIzaSyDgUyrfFShw0ayMCbGIJysqMq43Vtbavk0",
     authDomain: "tik-tok-clone-fe8f6.firebaseapp.com",
     databaseURL: "https://tik-tok-clone-fe8f6.firebaseio.com",
@@ -10,6 +9,3 @@
     appId: "1:823381937089:web:a627230b83f6cd82e33d40",
     measurementId: "G-04H3VK9VZ0"
   };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
