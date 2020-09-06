@@ -9,7 +9,7 @@ function Video() {
     if (playing){
         videoRef.current.pause();
     } else {
-        videoRef.current.playing();
+        videoRef.current.play();
         setPlaying(true);
     }
     };
