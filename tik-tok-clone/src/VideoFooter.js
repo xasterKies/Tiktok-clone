@@ -6,6 +6,7 @@ function VideoFooter() {
         <div className="videoFooter">
             <div className="videoFooter__text">
             <h3>@shekina_gg</h3>
+            <p>This is a description</p>
             </div>
         
         <img src="https://static.thenounproject.com/png
