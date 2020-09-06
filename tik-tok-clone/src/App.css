@@ -5,6 +5,8 @@ html {
 .app {
     background-color: black;
     height: 100vh;
+    display: grid;
+    place-items: center;
 }
 
 .app__videos {
