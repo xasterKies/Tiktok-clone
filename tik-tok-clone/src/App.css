@@ -15,6 +15,6 @@ html {
     scroll-snap-type: y mandatory;
 }
 
-.app__videos::-web {
+.app__videos::-webkit-scrollbar {
 
 }
