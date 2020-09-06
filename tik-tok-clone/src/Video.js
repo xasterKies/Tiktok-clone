@@ -23,7 +23,7 @@ function Video() {
         ref={videoRef}
         src="https://vm.tiktok.com/ZSPgqUJf/" className="video">
         </video>
-        <VideoFooter/>
+        <VideoFooter></VideoFooter>
 
         {/* <VideoSidebar /> /> */}
         </div>
