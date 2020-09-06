@@ -6,4 +6,5 @@ html {
 .app__videos {
     position: relative;
     height: 800px;
+    overflow: hidden;
 }
