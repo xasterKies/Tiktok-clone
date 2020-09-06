@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
+        Hello Clever Programmers
         <div className="app__videos"></div>
           <Video/>
           <Video/>
