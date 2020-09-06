@@ -6,5 +6,5 @@ html {
 .app__videos {
     position: relative;
     height: 500px;
-    overflow: hidden;
+    overflow: scroll;
 }
