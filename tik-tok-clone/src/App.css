@@ -4,6 +4,7 @@ html {
 
 .app {
     background-color: black;
+    height: 100vh;
 }
 
 .app__videos {

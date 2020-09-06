@@ -6,7 +6,6 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        Clever Programmer
         <div className="app__videos">
           <Video/>
           <Video/>
