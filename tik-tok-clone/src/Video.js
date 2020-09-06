@@ -5,7 +5,7 @@ function Video() {
     return(
         <div className="video">
         <video className="video__player" 
-        
+        loop
         src="https://vm.tiktok.com/ZSPgqUJf/" className="video"></video>
         {/* <VideoFooter /> */}
         {/* <VideoSidebar /> /> */}
