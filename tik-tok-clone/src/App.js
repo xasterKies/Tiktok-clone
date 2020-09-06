@@ -6,8 +6,11 @@ class App extends Component {
     return (
       <div className="app">
         <div className="app__videos"></div>
-
-      </div>
+          <Video/>
+          <Video/>
+          <Video/>
+          <Video/>
+        </div>
     );
   }
 }
