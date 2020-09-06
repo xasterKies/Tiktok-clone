@@ -5,9 +5,14 @@
     display: flex;
 }
 
+.videoFooter__text {
+    flex: 1;
+}
+
 .videoFooter__record {
     animation: spinTheRecord infinite 5s linear;
     height: 50px;
+    filter: invert(1);
 }
 
 @keyframes spinTheRecord {
