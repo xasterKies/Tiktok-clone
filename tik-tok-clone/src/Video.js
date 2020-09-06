@@ -4,7 +4,9 @@ import "./Video.css";
 function Video() {
     const videoRef = useRef(null);
 
-    const onVideo
+    const onVideoPress = () => {
+        videoRef.current.play();
+    };
     
 
         <div className="video">
