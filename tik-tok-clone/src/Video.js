@@ -3,6 +3,8 @@ import "./Video.css";
 
 function Video() {
     const videoRef = useRef(null);
+
+    const onVideo
     
 
         <div className="video">
