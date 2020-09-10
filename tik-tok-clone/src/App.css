@@ -17,8 +17,6 @@ html {
     width: 80%;
     max-width: 500px;
     scroll-snap-type: y mandatory;
-    -ms-overflow-style: none;
-    scrollbar-width: none;
 }
 
 .app__videos::-webkit-scrollbar {
@@ -26,5 +24,6 @@ html {
 }
 
 .app__videos {
-    
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
