@@ -24,3 +24,7 @@ html {
 .app__videos::-webkit-scrollbar {
     display: none;
 }
+
+.app__videos {
+    
+}
