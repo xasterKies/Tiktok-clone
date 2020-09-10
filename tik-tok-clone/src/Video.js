@@ -15,18 +15,19 @@ function Video() {
     }
     };
     
-
+    return (
         <div className="video">
         <video className="video__player" 
         loop
         onClick={onVideoPress}
         ref={videoRef}
-        src="https://vm.tiktok.com/ZSPgqUJf/" className="video">
+        src="https://www.tiktok.com/@bellapoarch/video/6870674590016818437?lang=en" className="video">
         </video>
         <VideoFooter/>
 
         {/* <VideoSidebar /> /> */}
         </div>
+    );
     
 }
 
